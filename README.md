@@ -1,4 +1,4 @@
-# Shopifty Twitter Programming Test
+# Twitter Followers
 
 We identify the common followers of @Shopify and @ShopifyPicks. The solution notebook is `ShopifyTest.ipynb`, which can be viewed at 
 
